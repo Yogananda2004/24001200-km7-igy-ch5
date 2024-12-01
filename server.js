@@ -1,7 +1,6 @@
 //perubahan pertama
 //perubahn kedua
-//perubahan ketiga
-//perubahan keempat
+//perubahn kelima
 require("dotenv").config();
 const express = require("express");
 const { PrismaClient } = require("@prisma/client");
